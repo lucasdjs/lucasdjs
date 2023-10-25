@@ -3,7 +3,7 @@
 
 ### Resumo Profissional
 <div>
-<p>Meu nome é Lucas Silva, um <b>Desenvolvedor Full-Stack</b> trabalhando de forma remota em Camboriú/SC para a NDD Log com sede em Lages/SC. Com mais de dois anos de experiência, atualmente atuo como <b>Analista de Desenvolvimento Júnior</b> na <a href="https://ndd.tech/" target="_blank" style= " text-decoration:none"><b style= "color:white">NDD Tech</b></a>. 👩‍💻💻</p>
+<p>Meu nome é Lucas Silva, um <b>Desenvolvedor Full-Stack</b> trabalhando de forma remota em Camboriú/SC para a NDD Log com sede em Lages/SC. Com mais de dois anos de experiência, atualmente atuo como <b>Analista de Desenvolvimento Júnior</b> na <a href="https://ndd.tech/" target="_blank"><b style= "color:white">NDD Tech</b></a>. 👩‍💻💻</p>
 
 <p>🚀Minhas principais competências incluem o desenvolvimento web, com ênfase em <strong>HTML, CSS, JavaScript e TypeScript</strong>, bem como o uso do framework <b>Angular</b>. No backend, sou proficiente em <b>.NET Core e .NET Framework, além de programação em C#</b>. Além disso, tenho experiência em automação de testes, usando ferramentas como <b>Selenium e Katalon Studio</b>.</p>
 
