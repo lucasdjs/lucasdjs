@@ -16,7 +16,7 @@
 🚀Em resumo, sou um entusiasta de tecnologia dedicado, sempre disposto a aprender e crescer em um ambiente desafiador. Com uma sólida base em desenvolvimento web e uma paixão por inovação, estou ansioso para enfrentar novos desafios e contribuir para projetos empolgantes no campo da tecnologia.
 
 ### Contato:
-📞 Contato: (49)98424-0024  
+📞 Contato: (49) 98424-0024  
 📧 Email: lucasdjs2014@hotmail.com  
 
 <br>
