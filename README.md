@@ -1,13 +1,36 @@
 
-## Olá! Eu Sou o Lucas Jesus 🧑
+<h1> Olá! Eu Sou o Lucas Silva 👋💁‍♂️💻</h1> 
+
+### Resumo Profissional
+
+<p>Meu nome é Lucas Silva, um <b>Desenvolvedor Full-Stack</b> trabalhando de forma remota em Camboriú/SC para a NDD Log com sede em Lages/SC. Com mais de dois anos de experiência, atualmente atuo como <b>Analista de Desenvolvimento Júnior</b> na <a href="https://ndd.tech/" target="_blank">NDD Tech</a>. 👩‍💻💻</p>
+
+<p>🚀Minhas principais competências incluem o desenvolvimento web, com ênfase em <strong>HTML, CSS, JavaScript e TypeScript</strong>, bem como o uso do framework <b>Angular</b>. No backend, sou proficiente em <b>.NET Core e .NET Framework, além de programação em C#</b>. Além disso, tenho experiência em automação de testes, usando ferramentas como <b>Selenium e Katalon Studio</b>.</p>
+
+🚀Minha jornada no campo da tecnologia começou quando trabalhei como Jovem Aprendiz no setor de Sistema de Gestão da NDD Tech com apenas 15 anos e desde então sempre estou evoluindo na área.
+
+🚀Atualmente estou finalizando a faculdade de Sistemas de Informação com previsão de término para o primeiro semestre de 2024.
+
+🚀Minha busca por conhecimento continuou com a obtenção de um certificado em Desenvolvedor Full-Stack pela Escola SENAI de Informática e aprimoramento em língua inglesa com um curso no Rockfeller Language Center.
+
+🚀Em resumo, sou um entusiasta de tecnologia dedicado, sempre disposto a aprender e crescer em um ambiente desafiador. Com uma sólida base em desenvolvimento web e uma paixão por inovação, estou ansioso para enfrentar novos desafios e contribuir para projetos empolgantes no campo da tecnologia.
+
+### Contato:
+📞 Contato: (49)98424-0024  
+📧 Email: lucasdjs2014@hotmail.com  
+
+<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasjesus/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasjsv/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucas.jesus.7712/)
+
+<hr>
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdjs&show_icons=true&theme=dark)
 
-### Tecnologias usadas:
-<div style= "display: inline_block"><hr/>
+## Tecnologias usadas:
+<div style= "display: inline_block">
 <img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align = "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align = "center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,10 +42,12 @@
 <img align = "center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align = "center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align = "center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br>
+<br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdjs&hide_progress=false&bg_color=000000&custom_title=👩‍💻&title_color=2f80ed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdjs&hide_progress=false&&theme=dark&custom_title=💻💡⚙️)
 </div>
+
 
 
 
