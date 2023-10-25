@@ -2,7 +2,7 @@
 <h1> Olá! Eu Sou o Lucas Silva 👋💻</h1> 
 
 ### Resumo Profissional
-
+<div>
 <p>Meu nome é Lucas Silva, um <b>Desenvolvedor Full-Stack</b> trabalhando de forma remota em Camboriú/SC para a NDD Log com sede em Lages/SC. Com mais de dois anos de experiência, atualmente atuo como <b>Analista de Desenvolvimento Júnior</b> na <a href="https://ndd.tech/" target="_blank" style= " text-decoration:none"><b style= "color:white">NDD Tech</b></a>. 👩‍💻💻</p>
 
 <p>🚀Minhas principais competências incluem o desenvolvimento web, com ênfase em <strong>HTML, CSS, JavaScript e TypeScript</strong>, bem como o uso do framework <b>Angular</b>. No backend, sou proficiente em <b>.NET Core e .NET Framework, além de programação em C#</b>. Além disso, tenho experiência em automação de testes, usando ferramentas como <b>Selenium e Katalon Studio</b>.</p>
@@ -20,6 +20,7 @@
 📧 Email: lucasdjs2014@hotmail.com  
 
 <br>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasjesus/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasjsv/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucas.jesus.7712/)
