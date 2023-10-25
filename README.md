@@ -54,9 +54,9 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdjs&hide_progress=false&&theme=dark&custom_title=💻💡⚙️)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdjs&hide_progress=false&theme=dark&custom_title=💻💡⚙️)
 </div>
 
+<h4>Projeto em andamento:</h4>
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasdjs&repo=eventosapi&theme=dark)](https://github.com/lucadjs/eventosapi)
